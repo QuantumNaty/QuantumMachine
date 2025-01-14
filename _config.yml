@@ -13,8 +13,8 @@ favicon: 'favicon.ico'
 # Online profiles
 #dribbble: 'mydribbble'
 facebook: 'myfacebook'
-twitter: 'mytwitter'
-#linkedin: 'mylinkedin'
+#twitter: 'mytwitter'
+linkedin: 'mylinkedin'
 instagram: 'myinsta'
 #pinterest: 'mypinterest'
 youtube: 'myyoutube'
@@ -28,9 +28,9 @@ github-user: 'mygithub'
 #reddit: ''
 #rubygems: ''
 #medium:  ''
-tumblr: 'mytumblr'
-weibo: 'myweibo'
-vk: 'myvk'
+#tumblr: 'mytumblr'
+#weibo: 'myweibo'
+#vk: 'myvk'
 blog_url: 'myblog.blog.com'
 email: 'hello@example.com'
 messenger: 'myfbchat'
@@ -65,7 +65,7 @@ social-links:
     url-pattern: twitter.com/__USERNAME__
 
   - name: linkedin
-    url-pattern: linkedin.com/in/__USERNAME__
+    url-pattern: linkedin.com/in/natacha-quintero/
 
   - name: google-plus
     url-pattern: plus.google.com/+__USERNAME__
@@ -77,7 +77,7 @@ social-links:
     url-pattern: weibo.com/__USERNAME__
 
   - name: instagram
-    url-pattern: instagram.com/__USERNAME__
+    url-pattern: instagram.com/quantumnaty/
 
   - name: flickr
     url-pattern: flickr.com/__USERNAME__
