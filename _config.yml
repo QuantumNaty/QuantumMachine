@@ -31,11 +31,12 @@ youtube: 'myyoutube'
 #tumblr: 'mytumblr'
 #weibo: 'myweibo'
 #vk: 'myvk'
+telegram: 'telegram'
 blog_url: 'myblog.blog.com'
 email: 'hello@example.com'
 messenger: 'myfbchat'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email,telegram]
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -138,7 +139,7 @@ social-links:
     icon-class: fab fa-2x fa-facebook-messenger
 
   - name: telegram
-    url-pattern: telegram.me/__USERNAME__
+    url-pattern: t.me/+Zt9Cf4894OQxNDEx
 
   - name: snapchat
     url-pattern: snapchat.com/add/__USERNAME__
