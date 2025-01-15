@@ -2,8 +2,8 @@
 remote_theme: epidrome/cover-card@main
 
 # Title and tag line
-title: 'Bienvenidos al Campo Cuántico'
-description: '...un lugar de infinitas posibilidades...'
+title: 'Welcome to the Quantum Field'
+description: '...a place of infinite posibilities...'
 
 # Images
 avatar: 'avatar.png'
